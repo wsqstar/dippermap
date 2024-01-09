@@ -7,7 +7,7 @@ import {
 } from '@ant-design/icons'
 import './index.css'
 import { Button, Divider, Tooltip, Tour, TourProps } from 'antd'
-import weChat from '../../assets/weixin.jpeg'
+import weChat from '../../assets/weixin.jpg'
 import { useEffect, useLayoutEffect, useState } from 'react'
 import { useLocalStorageState } from 'ahooks'
 
