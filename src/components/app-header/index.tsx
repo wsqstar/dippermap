@@ -138,7 +138,7 @@ export const AppHeader: React.FC<AppHeaderProps> = ({
           <GithubOutlined
             className="header_icon"
             onClick={() => {
-              window.open('https://github.com/DipperMap/dippermap')
+              window.open('https://github.com/wsqstar/dippermap')
             }}
           />
         </div>
